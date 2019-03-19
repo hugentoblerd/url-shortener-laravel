@@ -19,5 +19,5 @@
 • You can use whatever data storage method you prefer (SQLite, MySQL, flat-file).
 
 • You are free to build up the complexity as you desire (CRUD, analytics, caching), but try not to spend more than 1~3 hours.
--
+
 Place the result in GitHub and send me the link by Friday, March 15th at 12:00pm(est)/9:00am(mst).
